@@ -18,7 +18,7 @@ Currently seeking Software Developer / Full Stack Developer opportunities.
 - 🌱 Currently learning **Next.js, TypeScript, and System Design**
 - 🚀 Interested in building real-world web applications
 - 📍 Kishanganj, Bihar, India
-- 📧 **Email:** your-email@example.com
+- 📧 **Email:** job.subhamkarn@gmail.com
 
 ---
 
